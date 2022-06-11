@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to the Cosmic GitHub page</h1>
 
 <p align="center">
-Find open source resources to help you build content-driven websites and apps using the <a href="https://www.cosmicjs.com?utm_source=github-page">Cosmic headless content management solution</a>.
+Here find open source resources to help you build content-powered websites and apps using the <a href="https://www.cosmicjs.com?utm_source=github-page">Cosmic headless content management solution</a>.
 </p>
 
 
