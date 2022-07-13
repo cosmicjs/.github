@@ -1,7 +1,7 @@
 <div style="background-color:#0D1116; height: 100%; color: #fff; padding: 30px 30px 0 30px">
     <a href="https://www.cosmicjs.com?utm_source=github-page"><img src="https://imgix.cosmicjs.com/c762a470-fe42-11ec-a86e-01502e07597f-Cosmic-header.png?w=1000&auto=format" alt="Cosmic" width="100%"></a>
 
-  <h1 align="center" style="color: #fff">Welcome to the Cosmic GitHub page 👋</h1>
+  <h1 align="center" style="color: #fff; border: none"><b>Welcome to the Cosmic GitHub page 👋</b></h1>
 
   <p align="center">
   Here find open source resources to help you build content-powered websites and apps using the <a href="https://www.cosmicjs.com?utm_source=github-page">Cosmic headless content management solution</a>.
