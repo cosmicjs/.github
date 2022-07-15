@@ -1,25 +1,5 @@
-<p align="center">
-  <a href="https://www.cosmicjs.com"><img src="https://cdn.cosmicjs.com/3cf62ab0-8e13-11ea-9b8f-cd0254a8c979-cosmic-dark.svg" alt="Cosmic" width="400" height="111"></a>
-</p>
+<a href="https://www.cosmicjs.com?utm_source=github-page"><img src="https://imgix.cosmicjs.com/c762a470-fe42-11ec-a86e-01502e07597f-Cosmic-header.png?w=2000&auto=format" alt="Cosmic" width="100%"></a>
 
-<h1 align="center">Welcome to the Cosmic GitHub page 👋</h1>
+<a href="https://www.cosmicjs.com?utm_source=github-page" style="padding: 0; margin: 0"><img src="https://imgix.cosmicjs.com/c9c20540-03f5-11ed-b7be-d956591ad437-welcome.png?w=2000&auto=format" alt="Cosmic" width="100%" style="padding: 0; margin: 0"></a>
 
-<p align="center">
-Here find open source resources to help you build content-powered websites and apps using the <a href="https://www.cosmicjs.com?utm_source=github-page">Cosmic headless content management solution</a>.
-</p>
-
-
-<h2 align="center">Getting Started</h2>
-
-<p align="center">
-📖 <a href="https://docs.cosmicjs.com">View the docs</a>
-</p>
-<p align="center">
-⚡ <a href="https://www.cosmicjs.com/signup">Create a free account</a>
-</p>
-<p align="center">
-🛠️  <a href="https://www.cosmicjs.com/apps">Install an app template</a>
-</p>
-<p align="center">
-📝  <a href="https://www.cosmicjs.com/articles">Check out how-to articles</a>
- </p>
+<a href="https://www.cosmicjs.com?utm_source=github-page"><img src="https://imgix.cosmicjs.com/c9c316b0-03f5-11ed-b7be-d956591ad437-npm-install.png?w=2000&auto=format" alt="Cosmic" width="100%"></a>
