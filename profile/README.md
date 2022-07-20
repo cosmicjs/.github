@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Welcome to the Cosmic GitHub page 👋</h1>
 <p>We’re proud to share our open source resources to help you build <br>
-content-powered websites and apps using the <a href="https://www.cosmicjs.com">Cosmic headless content management solution</a>.
+content-powered websites and apps using the <a href="https://www.cosmicjs.com?utm_source=github-page">Cosmic headless content management solution</a>.
 </p>
 </div>
 
