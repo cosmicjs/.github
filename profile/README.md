@@ -1,8 +1,11 @@
 <a href="https://www.cosmicjs.com?utm_source=github-page"><img src="https://imgix.cosmicjs.com/c762a470-fe42-11ec-a86e-01502e07597f-Cosmic-header.png?w=2000&auto=format" alt="Cosmic" width="100%"></a>
 
-<a href="https://www.cosmicjs.com?utm_source=github-page" style="padding: 0; margin: 0"><img src="https://imgix.cosmicjs.com/c9c20540-03f5-11ed-b7be-d956591ad437-welcome.png?w=2000&auto=format" alt="Cosmic" width="100%" style="padding: 0; margin: 0"></a>
-
-<a href="https://www.npmjs.com/package/cosmicjs"><img src="https://imgix.cosmicjs.com/c9c316b0-03f5-11ed-b7be-d956591ad437-npm-install.png?w=2000&auto=format" alt="Cosmic" width="100%"></a>
+<div align="center">
+<h1>Welcome to the Cosmic GitHub page 👋</h1>
+<p>We’re proud to share our open source resources to help you build <br>
+content-powered websites and apps using the <a href="https://www.cosmicjs.com">Cosmic headless content management solution</a>.
+</p>
+</div>
 
 <div style="margin-bottom: 10px;">
   <a style="margin: 0 10px 0 0" align="left" href="https://docs.cosmicjs.com?utm_source=github-page"><img src="https://imgix.cosmicjs.com/95de06a0-0528-11ed-b7be-d956591ad437-view-docs.png?w=2000&auto=format" alt="Cosmic" width="49%"></a>
