@@ -82,10 +82,6 @@ const { objects: posts } = await cosmic.objects
 
 Browse all [community projects on cosmicjs.com](https://www.cosmicjs.com/community/projects).
 
-## Trusted by teams building with Cosmic
-
-<!-- Add a logo strip or named list of customers you have permission to feature -->
-
 ## Community
 
 - **Docs**: [cosmicjs.com/docs](https://www.cosmicjs.com/docs)
