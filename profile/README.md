@@ -43,7 +43,7 @@ npm install -g @cosmicjs/cli
 cosmic login
 ```
 
-Or [create an agent account with your AI assistant](https://www.cosmicjs.com/docs/agent-skills#agent-signup).
+Or [sign up in seconds with your AI assistant](https://www.cosmicjs.com/docs/agent-skills#agent-signup).
 
 Or install the SDK in an existing project:
 
